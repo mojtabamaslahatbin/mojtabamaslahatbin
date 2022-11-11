@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **docker**
 
-- 💬 Ask me about **react, nextjs**
+- 💬 Ask me about **reactjs, nextjs**
 
 - 📫 How to reach me **m.maslahatbin@gmail.com**
 
