@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mojtaba</h1>
 <h3 align="center">A Passionate Front-End Developer</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **reactjs, nextjs**
 
